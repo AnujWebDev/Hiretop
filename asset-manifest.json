@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hiretop/static/css/main.1ad824f8.css",
+    "main.js": "/Hiretop/static/js/main.a76dbb74.js",
+    "static/js/787.bb3835e2.chunk.js": "/Hiretop/static/js/787.bb3835e2.chunk.js",
+    "index.html": "/Hiretop/index.html",
+    "main.1ad824f8.css.map": "/Hiretop/static/css/main.1ad824f8.css.map",
+    "main.a76dbb74.js.map": "/Hiretop/static/js/main.a76dbb74.js.map",
+    "787.bb3835e2.chunk.js.map": "/Hiretop/static/js/787.bb3835e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad824f8.css",
+    "static/js/main.a76dbb74.js"
+  ]
+}
